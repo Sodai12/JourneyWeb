@@ -197,9 +197,10 @@ a {
 }
 
 .China_city_item {
-    width: 90%;
+    flex: 1;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 
 .China_city_item img {
